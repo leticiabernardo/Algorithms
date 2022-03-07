@@ -30,7 +30,7 @@
 - Data Structures
   - Array
   - [Linked List](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/02_LinkedList)
-  - Stack
+  - [Stack](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/03_Stack)
   - Queue
   - [Hash Table](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/05_HashTable)
   - Tree
