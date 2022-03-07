@@ -29,7 +29,7 @@
 - Algorithms
 - Data Structures
   - Array
-  - Linked List
+  - [Linked List](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/02_LinkedList)
   - Stack
   - Queue
   - [Hash Table](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/05_HashTable)
