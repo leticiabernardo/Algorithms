@@ -31,12 +31,12 @@
   - Array
   - [Linked List](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/02_LinkedList)
   - [Stack](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/03_Stack)
-  - Queue
+  - [Queue](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/04_Queue)
   - [Hash Table](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/05_HashTable)
   - Tree
   - Heap
   - Graph
-- Practice Problems 
+- Practice Problems
 
 
 <!-- LICENSE -->
@@ -50,11 +50,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Letícia Bernardo - [@letisgobabe](https://twitter.com/letisgobabe)
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/leticiabernardo/Algorithms.svg?style=for-the-badge&color=dd342e
 [contributors-url]: https://github.com/leticiabernardo/Algorithms/graphs/contributors
@@ -68,7 +64,6 @@ Letícia Bernardo - [@letisgobabe](https://twitter.com/letisgobabe)
 [license-url]: https://github.com/leticiabernardo/Algorithms/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lebernardo
-
 
 <!-- LINKS AND CREDITS -->
 
