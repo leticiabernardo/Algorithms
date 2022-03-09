@@ -34,8 +34,7 @@
   - [Queue](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/04_Queue)
   - [Hash Table](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/05_HashTable)
   - [Tree](https://github.com/leticiabernardo/Algorithms/blob/main/DataStructures/06_Tree)
-  - Heap
-  - [Graph](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/08_Graph)
+  - [Graph](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/07_Graph)
 - Practice Problems
 
 
