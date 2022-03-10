@@ -27,6 +27,8 @@
 ## Table of Contents
 
 - Algorithms
+  - Sorting
+    - [Bubble Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/BubbleSort)
 - Data Structures
   - Array
   - [Linked List](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/02_LinkedList)
