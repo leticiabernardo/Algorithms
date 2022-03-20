@@ -31,6 +31,9 @@
     - [Bubble Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/BubbleSort)
     - [Quick Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/QuickSort)
     - [Merge Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/MergeSort)
+  - Search
+    - [Linear Search](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Search/LinearSearch)
+    - [Binary Search](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Search/BinarySearch)
 - Data Structures
   - Array
   - [Linked List](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/02_LinkedList)
