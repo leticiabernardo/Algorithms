@@ -39,6 +39,11 @@
     - [Bubble Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/BubbleSort)
     - [Quick Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/QuickSort)
     - [Merge Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/MergeSort)
+    - [Selection Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/SelectionSort)
+    - [Insertion Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/InsertionSort)
+    - [Heap Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/HeapSort)
+    - [Shell Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/ShellSort)
+    - [Radix Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/RadixSort)
   - Searching
     - [Linear Search](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Searching/LinearSearch)
     - [Binary Search](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Searching/BinarySearch)
