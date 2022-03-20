@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+
 def mergeSort(arr):
     if len(arr) > 1:
         middle = len(arr) // 2
