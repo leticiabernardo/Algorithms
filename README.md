@@ -26,14 +26,6 @@
 
 ## Table of Contents
 
-- Algorithms
-  - Sorting
-    - [Bubble Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/BubbleSort)
-    - [Quick Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/QuickSort)
-    - [Merge Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/MergeSort)
-  - Search
-    - [Linear Search](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Search/LinearSearch)
-    - [Binary Search](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Search/BinarySearch)
 - Data Structures
   - Array
   - [Linked List](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/02_LinkedList)
@@ -42,6 +34,15 @@
   - [Hash Table](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/05_HashTable)
   - [Tree](https://github.com/leticiabernardo/Algorithms/blob/main/DataStructures/06_Tree)
   - [Graph](https://github.com/leticiabernardo/Algorithms/tree/main/DataStructures/07_Graph)
+- Algorithms
+  - Sorting
+    - [Bubble Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/BubbleSort)
+    - [Quick Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/QuickSort)
+    - [Merge Sort](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Sorting/MergeSort)
+  - Searching
+    - [Linear Search](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Searching/LinearSearch)
+    - [Binary Search](https://github.com/leticiabernardo/Algorithms/tree/main/Algorithms/Searching/BinarySearch)
+
 - Practice Problems
 
 
